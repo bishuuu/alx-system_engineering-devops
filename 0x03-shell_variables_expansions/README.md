@@ -1,0 +1,1 @@
+This is a project where I will learn about Expansion, Alias, the Shell and more other things.
